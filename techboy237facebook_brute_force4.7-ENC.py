@@ -1,2 +1,2 @@
-import Techboy237Facebook_Brute_force4.7B
-Techboy237Facebook_Brute_force4.7B.azimvau()
+import Techboy237Facebook_Brute_force4.7
+Techboy237Facebook_Brute_force4.7.azimvau()
