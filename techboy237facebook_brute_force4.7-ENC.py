@@ -1,2 +1,0 @@
-import Techboy237Facebook_Brute_force4
-Techboy237Facebook_Brute_force4.azimvau()
