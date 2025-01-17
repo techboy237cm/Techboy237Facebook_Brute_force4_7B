@@ -31,7 +31,7 @@ git clone https://github.com/techboy237cm/Techboy237Facebook_Brute_force4_7B.git
 ```
 #### RUN SCRIPT
 ```python
-$ $ cd Techboy237Facebook_Brute_force4_7B
+$ cd Techboy237Facebook_Brute_force4_7B
 $ python techboy237facebook_brute_force4.7-ENC.py
 ```
 
